@@ -1,0 +1,36 @@
+name: Social Readme
+
+on:
+  schedule:
+    - cron: 0 0 * * 1
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    
+    
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Install Python
+      run: |
+        sudo apt update && \
+        sudo apt install python3 && \
+        pip3 install requests lxml
+    - name: Update README.md
+      run: |
+        python3 update.py
+    - name: commit
+      run: |
+        git config --global user.email 3247054062@qq.com
+        git config --global user.name YaYiJiang
+        git add .
+        git commit -m "update"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
