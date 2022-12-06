@@ -7,7 +7,9 @@
 
 <!-- END_SECTION:blog -->
 
-![](https://github-yayijiang.vercel.app/api?username=mayandev)
+## 🔰 Statistics
+
+![YaYiJiang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaYiJiang&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 <!--
 **YaYiJiang/YaYiJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
