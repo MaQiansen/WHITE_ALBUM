@@ -1,8 +1,11 @@
-### Hi there 👋,，I'm YaYiJiang
+### Hi there 👋,I'm YaYiJiang
 - ❄ I’m currently working on program.
 - 🔥 I’m currently learning Computer Networking.
 - 📫 How to reach me: 3247054062@qq.com
 - ⚡ Pronouns: 社恐，ACG,宅男
+<!-- START_SECTION:blog -->
+
+<!-- END_SECTION:blog -->
 <!--
 **YaYiJiang/YaYiJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
