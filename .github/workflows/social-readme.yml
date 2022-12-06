@@ -1,0 +1,17 @@
+name: Social Readme
+
+on:
+  schedule:
+    - cron: 0 0 * * 1
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  update-social:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: YaYiJiang/social-readme@master
+        with:
+          blog_rss_link: https://yayijiang.github.io/
