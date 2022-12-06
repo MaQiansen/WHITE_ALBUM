@@ -3,10 +3,9 @@
 - 🔥 I’m currently learning Computer Networking.
 - 📫 How to reach me: 3247054062@qq.com
 - ⚡ Pronouns: 社恐，ACG,宅男
-<!-- START_SECTION:blog -->
+<!-- BLOG-POST-LIST:START -->
 
-<!-- END_SECTION:blog -->
-
+<!-- BLOG-POST-LIST:END -->
 ## 🔰 Statistics
 
 ![YaYiJiang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaYiJiang&show_icons=true&theme=tokyonight&cache_seconds=1800)
