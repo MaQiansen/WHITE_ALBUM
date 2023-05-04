@@ -2,7 +2,7 @@
 - ❄ I’m currently working on program.
 - 🔥 I’m currently learning Computer Networking.
 - 📫 How to reach me: 3247054062@qq.com
-- ⚡ Pronouns: 社恐，ACG,宅男
+- ⚡ Pronouns: Animation enthusiasts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 3247054062@qq.com
-- 😄 Pronouns: 社恐，ACG,宅男
+- 😄 Pronouns: Animation enthusiasts
 - ⚡ Fun fact: ...
 -->
