@@ -10,7 +10,7 @@ jobs:
     runs-on: windows-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: YaYiJiang/.github.workflows@main
+      - uses: YaYiJiang/YaYiJiang@main
         with:
           # 我的博客 RSS 链接
           feed_list: "https://yayijiang.github.io/atom.xml"
