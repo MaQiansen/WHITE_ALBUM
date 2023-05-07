@@ -1,21 +1,21 @@
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '* 2 * * *'
-  workflow_dispatch:
+# name: Latest blog post workflow
+# on:
+#   schedule:
+#     - cron: 
+#   workflow_dispatch:
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubantu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          # 我的博客 RSS 链接
-          feed_list: "https://yayijiang.github.io/atom.xml"
-          # 获取最新 10 篇文章
-          max_post_count: 5
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubantu-latest
+#     steps:
+#       - uses: actions/checkout@v2
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           # 我的博客 RSS 链接
+#           feed_list: "https://yayijiang.github.io/atom.xml"
+#           # 获取最新 10 篇文章
+#           max_post_count: 5
 
 
 # name: Tigger special repository
