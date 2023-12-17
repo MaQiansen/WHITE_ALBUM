@@ -1,17 +1,16 @@
-## Hi there 👋,I'm [YuukiAsuna](https://yayijiang.github.io/)
+## Hi there 👋,I'm [WHITE_ALBUM]()
 - ❄ I’m currently working on program.
 - 🔥 I’m currently learning Computer Networking.
-- 📫 How to reach me: 3247054062@qq.com
+- 📫 How to reach me: galgame18@gmail.com
 - ⚡ Pronouns: Animation enthusiasts
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 ## 🔰 Statistics
 
-![YaYiJiang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaYiJiang&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 <!--
-**YaYiJiang/YaYiJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MaQiansen/WHITE_ALBUM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
